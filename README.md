@@ -27,7 +27,9 @@ Currently focusing on:
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=sql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit_learn-F7931E?logo=scikit-learn&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoftexcel&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power_Query-2F75B5?logo=microsoft&logoColor=white)
+
 
 **Data Science Toolkit**  
 Data Preprocessing | EDA | Statistical Analysis | Machine Learning | Data Visualization
