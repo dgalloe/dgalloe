@@ -36,25 +36,6 @@ Data Preprocessing | EDA | Statistical Analysis | Machine Learning | Data Visual
 
 ---
 
-## 🚀 Tripleten Projects
-
-### [Video Game Sales Analysis](link-to-repo)
-- Identified key success patterns in gaming industry using advanced preprocessing
-- Developed strategic consumer profiles for 3 regions
-- Tools: Python, Pandas, Seaborn
-
-### [Taxi Mobility Optimization](link-to-repo)
-- Validated impact of weather on trip duration (Levene/t-Student tests)
-- Identified top-performing neighborhoods and companies
-- Tools: Python, SciPy, Matplotlib
-
-### [Mobile Plan Recommendation Engine](link-to-repo)
-- Built classification model to recommend optimal mobile plans
-- Selected decision trees as optimal algorithm after evaluating 3 models
-- Tools: Scikit-learn, Pandas
-
----
-
 ## 📚 Education
 
 **Data Science Bootcamp**  
